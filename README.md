@@ -1,1 +1,1 @@
-playing with shell command
+About Bash projects
